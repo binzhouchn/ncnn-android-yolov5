@@ -62,8 +62,8 @@ android-sdk-macosx文件结构<br>
 
 ## screenshot
 
-<img src="images/screenshot2.jpg" width="460">
+<img src="images/screenshot2.jpg" width="420">
 
-<img src="images/screenshot.jpg" width="460">
+<img src="images/screenshot.jpg" width="420">
 
 
