@@ -19,7 +19,7 @@ git clone git@github.com:binzhouchn/ncnn-android-yolov5.git
 ### 第二步
 
 https://github.com/Tencent/ncnn/releases<br>
-下载[ncnn-20201218-android-vulkan.zip](https://github.91chifun.workers.dev/https://github.com//Tencent/ncnn/releases/download/20201218/ncnn-20201218-android-vulkan.zip)<br>
+下载(如果没有)[ncnn-20201218-android-vulkan.zip](https://github.91chifun.workers.dev/https://github.com//Tencent/ncnn/releases/download/20201218/ncnn-20201218-android-vulkan.zip)<br>
 解压到项目app/src/main/jni文件夹下 或者 change the ncnn_DIR path to yours in app/src/main/jni/CMakeLists.txt
 
 ### 第三步
