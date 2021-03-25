@@ -34,7 +34,7 @@ https://github.com/Tencent/ncnn/releases<br>
  - bashrc中配置路径export ANDROID_HOME=/Users/zhoubin/android-sdk-macosx;export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
  - 下载[gradle-5.4.1-all.zip](https://download.csdn.net/download/quantbaby/16073855)，tar -xvf grad541A.tar以后，放到/Users/zhoubin/.gradle/wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx文件夹下，不需要解压
  - 打开android studio，这时还会下载一些依赖包，有一些依赖jar包需要翻墙比如kotlin-reflect-1.3.41.jar包，可以直接百度搜索（如果搜不到可以私信我要），下载好后放到/Users/zhoubin/.gradle/wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/lib文件夹下，然后点同步继续
- - 最后如果没有安装ndk22.0.7和cmake也会编译失败，需要Preferences/Appearance&Behavior/System Settings/Android SDK点SDK Tools然后点NDK(Side by side)和CMake然后Apply即可（以下有截图展示）
+ - 最后如果没有安装ndk和cmake也会编译失败，需要Preferences/Appearance&Behavior/System Settings/Android SDK点SDK Tools然后点NDK(Side by side)和CMake然后Apply即可（以下有截图展示，可以选择对应NDK版本我装了21.0.6和22.0.7）
  - 全部同步完后就能看到build success!
 
 ndk和cmake安装截图<br>
