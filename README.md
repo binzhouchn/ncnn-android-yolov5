@@ -51,7 +51,6 @@
 
 
 
-
 感谢:<br/>
 - sunnyden, dog-qiuqiu, ..., nihui
 - https://github.com/Tencent/ncnn
