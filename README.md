@@ -17,8 +17,8 @@
 
 <img src="ncnn-android-all_nets/Screenshots/screenrecorder_2021_03_25.gif" width="300">
 
-
-[项目一地址](ncnn-android-all_nets/)
+[项目一地址](ncnn-android-all_nets/)<br>
+[可直接安装我打包好的APK包](https://download.csdn.net/download/quantbaby/16108085)
 
 ## 项目二
 
