@@ -40,6 +40,8 @@ https://github.com/Tencent/ncnn/releases<br>
 ndk和cmake安装截图<br>
 <img src="images/ndkcmake.png" width="400">
 
+`Gradle model version=5.4.1, NDK version=22.0.7026061`
+
 android-sdk-macosx文件结构<br>
 <img src="images/android-sdk-path.png" width="400">
 
