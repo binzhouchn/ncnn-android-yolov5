@@ -1,0 +1,13 @@
+*.iml
+.idea
+.gradle
+.cxx
+build/
+release/
+.DS_Store
+/captures
+.externalNativeBuild
+# Executables
+*.exe
+*.out
+*.app
